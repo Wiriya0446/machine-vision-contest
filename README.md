@@ -1,8 +1,8 @@
-train_per_menu.py                     => ที่ใช้เทรนโมเดล
-
 predict_per_menu_no_answer.py         => ตรวจคำตอบโดยที่ไฟล์ csv ไม่มีเฉลย (ได้ output เป็นไฟล์ csv และแสดงผลผ่าน terminal)
 
 predict_per_menu.py                   => ตรวจคำตอบโดยที่ไฟล์ csv มีเฉลย (ได้ output เป็นไฟล์ csv และแสดงผลผ่าน terminal)
+
+train_per_menu.py                     => ที่ใช้เทรนโมเดล
 
 auto_label.py                         => auto label ภาพจาก Intragram Images โดยการสุ่มจับคู่ภาพที่เป็นเมนูเดียวกันมาอยู่ด้วยกัน
 
