@@ -4,6 +4,8 @@ predict_per_menu.py                   => ตรวจคำตอบโดยท
 
 train_per_menu.py                     => ที่ใช้เทรนโมเดล
 
+predict_menu_classifier.py            => ใช้เทรนโมเดลสำหรับแยกชนิดอาหาร
+
 auto_label.py                         => auto label ภาพจาก Intragram Images โดยการสุ่มจับคู่ภาพที่เป็นเมนูเดียวกันมาอยู่ด้วยกัน
 
 filter_and_balance.py                 => กรองภาพจาก auto label คัดเอาเฉพาะคู่รูปภาพที่มีความมั่นใจสูง
